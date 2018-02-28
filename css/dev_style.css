@@ -1,0 +1,24 @@
+header
+{
+/*	width:				100%; */
+	text-align:			center;
+	background-color:	#CCCCCC;
+	font-size: 			20pt;
+}
+
+footer
+{
+	width:				100%;
+	text-align: 		center;
+	background-color:	#BBBBBB;
+}
+
+#contenu{
+	border-style: solid;
+	border-color: #800080;
+	overflow: scroll;	
+
+	-webkit-border-radius: 10px;
+	moz-border-radius: 10px;
+	border-radius: 10px;
+}
